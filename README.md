@@ -4,9 +4,6 @@
 - 使用U-Net肺部X-ray邊緣切割<br>
 ![9b337a5e-1448-4c13-900c-6606f854658a](https://github.com/user-attachments/assets/18114d64-5e9f-4f82-9d3e-e138e56f84e4)<br><br>
 - 使用CNN肺部X-ray邊緣切割<br>
-![a233364a-3bdd-435e-ad17-865594ffcca4](https://github.com/user-attachments/assets/7a4195ac-aa9f-4f6b-9359-d1aace902195)<br><br>
+![b5470fbb-8789-4685-9c19-75d55c9cc8d5](https://github.com/user-attachments/assets/9a4a34b3-f078-4ab5-aab9-e0caf9cc3cc4)<br><br>
 
 
-
-
-![9b337a5e-1448-4c13-900c-6606f854658a](https://github.com/user-attachments/assets/18114d64-5e9f-4f82-9d3e-e138e56f84e4)
